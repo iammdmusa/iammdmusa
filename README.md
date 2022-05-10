@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Musa</h1>
-<h3 align="center">Passionate and goal-orientated developer with 9+ years of experience in application layers, presentation layers, and databases. Experienced in LAMP, MEAN stack and JavaScript enthusiast who works in several frameworks and libraries especially in ReactJS, React-native, NodeJS, ExpressJS, WordPress, Symphony.A passionate frontend developer from India</h3>
+<h3 align="center">Passionate and goal-orientated developer with 9+ years of experience in application layers, presentation layers, and databases. Experienced in LAMP, MEAN stack and JavaScript enthusiast who works in several frameworks and libraries especially in ReactJS, React-native, NodeJS, ExpressJS, WordPress, Symphony.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iammdmusa&label=Profile%20views&color=0e75b6&style=flat" alt="iammdmusa" /> </p>
 
